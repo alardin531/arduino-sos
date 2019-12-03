@@ -31,6 +31,7 @@ void loop() {
         digitalWrite(lPin,LOW);
         delay(500);
     }
+    printf("sos!");
     delay(200);
     for(int i=0;i<3;i++){
         digitalWrite(lPin,HIGH);
