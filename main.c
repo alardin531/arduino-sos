@@ -36,6 +36,11 @@ void loop() {
     printf("sos!");
     printf("sos!");
     printf("sos!");
+    printf("sos!");
+    printf("sos!");
+    printf("sos!");
+    printf("sos!");
+    printf("sos!");
     delay(10000);
     delay(100);
     printf("sos!");
